@@ -116,7 +116,7 @@ Contributions are very welcome! If you know of any awesome papers, tools, or res
 Please ensure your pull request adheres to the following guidelines:
 
 - The paper/tool must strictly relate to extracting, reconstructing, or optimizing **discrete text prompts** from outputs/images.
-- Please use the provided format: `**Title** - *Authors, Venue Year.* [[Paper](link)] [[Code](link)]`
+- Please use the provided format: `**[Full Paper Title]**, *[First Author's Last Name] et al., [Conference or Journal Acronym] [Year].* [[Paper](Paper Link URL)] [[Code](Code Link URL)]`
 
 ---
 

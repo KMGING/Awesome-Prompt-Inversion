@@ -118,9 +118,8 @@
 请确保您的 PR 遵循以下指南：
 
 - 推荐的论文/工具必须严格与从输出/图像中提取、重构或优化**离散文本提示词**相关。
-- 请使用提供的论文格式：`**Title** - *Authors, Venue Year.* [[Paper](link)] [[Code](link)]`
+- 请使用提供的论文格式：`**[Full Paper Title]**, *[First Author's Last Name] et al., [Conference or Journal Acronym] [Year].* [[Paper](Paper Link URL)] [[Code](Code Link URL)]`。
 
----
 
 ## 📜 开源协议 (License)
 
